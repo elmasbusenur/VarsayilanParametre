@@ -1,0 +1,2 @@
+# VarsayilanParametre
+parametle oluşturma
